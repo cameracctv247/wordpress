@@ -1,0 +1,1 @@
+remove_filter('pre_user_description', 'wp_filter_kses');
